@@ -47,6 +47,8 @@ The remainder of this document contains a tutorial on creating a React app (usin
 
 5. A [GitHub](https://www.github.com) account. :octocat:
 
+6. A command-line Git client [setup according to GitHub](https://help.github.com/articles/set-up-git/).
+
 ## Procedure
 
 1. **Create an *empty* repository on GitHub.** (2 minutes)
@@ -139,7 +141,7 @@ The remainder of this document contains a tutorial on creating a React app (usin
 
 # References
 
-1. [Facebook's tutorial on deploying a React app to GitHub Pages](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
+1. [Facebook's tutorial on deploying a React app to GitHub Pages](https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom)
 
 # Notes
 
